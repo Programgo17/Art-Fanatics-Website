@@ -1,0 +1,53 @@
+
+
+header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.section-image, .about-image, .contact-image {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+.child-links {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.picture1 {
+    background-color: black;
+    display: block;
+    position: absolute;
+    width: 50%;
+}
+
